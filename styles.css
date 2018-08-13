@@ -1,0 +1,62 @@
+html,
+body {
+    height: 100%;
+
+}
+
+.container-fluid {
+    height: 100%;
+    padding: 0px;
+
+}
+
+.home-page {
+    background-image: url(img/color1.jpg);
+    opacity: 0.95;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+.navbar-custom{
+    opacity: 1;
+    font-size: 20px;
+    padding: 1px;
+    margin: 0px;
+}
+
+.caption{
+    position: relative;
+    top: 45%;
+    color: white;
+    opacity: 1;
+    padding: 10px;
+    margin: 0px;
+    text-align: center;
+}
+
+.about-me-page {
+    background: black;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    color: white;
+}
+
+#about-content{
+    margin: 0px;
+    padding: 15px;
+}
+
+.resume-page {
+    background: white;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    color: white;
+}
